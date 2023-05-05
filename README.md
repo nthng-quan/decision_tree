@@ -1,1 +1,3 @@
-# Decision graphviz tree for Lab03 submission
+# Graphviz decision tree
+
+Graphviz decision tree for Lab03 Data Mining submission
